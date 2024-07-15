@@ -1,0 +1,137 @@
+# User-specific files
+*.swp
+*.swo
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/
+
+# Xcode
+.DS_Store
+*.xcuserdata
+*.xcscmblueprint
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/xcschemes/*.xcscheme
+*.xcworkspace/contents.xcworkspacedata
+!*.xcworkspace/xcshareddata/*.xccheckout
+!*.xcworkspace/xcshareddata/xcschemes/*.xcscheme
+DerivedData
+.idea/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcuserdatad
+
+# CocoaPods
+Pods
+Podfile.lock
+project.xcworkspace
+
+# Carthage
+Carthage/Build
+Carthage/Checkouts
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Build generated
+.build/
+*.llbuild
+Package.resolved
+
+# Build products
+*.o
+*.a
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata
+
+# Other
+*.dat
+*.pyc
+*.pyo
+
+# Asset catalogs
+*.xcassets
+
+# Bundle
+*.bundle
+
+# Logs
+*.log
+
+# Temporary files
+tmp
+*.tmp
+*.temp
+*.swp
+*.swm
+*.swx
+*.bak
+*.sav
+*~
+*.sublime-workspace
+*.sublime-project
+*.db
+*.sql
+*.sqlite
+*.sqlite3
+
+# Xcode Generated
+*.moved-aside
+*.pbxuser
+*.pbxproj
+*.xcodeproj
+
+# Core Data
+*.xccurrentversion
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# SPM Packages
+Packages
+Package.pins
+Package.resolved
+
+# Swift Playgrounds
+timeline.xctimeline
+
+# Firebase specific files
+google-services.json
+GoogleService-Info.plist
+
+# Result bundles
+*.result
+
+# Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Symbols
+*.swp
+*.d
+
+# App packaging
+*.ipa
+*.app
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Libraries
